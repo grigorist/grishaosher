@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Greg! I am Frontend-Developer.Professionally I create the layout of websites according to various layouts from Figma. I help in launching your advertising companies.
 
 <!--
 **grishaosher/grishaosher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
